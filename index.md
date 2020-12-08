@@ -5,7 +5,7 @@
 ### Learning Project Dashboard & Presentation Slides
 
 [Basics of Data](/sample_page)
-<img src="images/basics_of_data.jpg?raw=true"/>
+<img src="images/basics of data.jpg?raw=true"/>
 
 ---
 [Real Estate Dashboard](/pdf/sample_presentation.pdf)
