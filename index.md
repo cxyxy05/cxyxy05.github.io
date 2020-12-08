@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Learning Project Dashboard & Presentation Slides
 
-[Project 1 Title](/sample_page)
+[Basics of Data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Real Estate Dashboard](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Zomato Restuarant Dashboard](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
